@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.verschein.com.tr/verschein1.png" width="200" alt="Verschein Studios Logo">
+  <img src="https://www.verschein.com.tr/verschein1.png" width="400" alt="Verschein Studios Logo">
 </h1>
 
 <p align="center">
@@ -27,9 +27,6 @@ We combine technology and art to create immersive **digital experiences**.
 
 ## 🚀 Our Projects
 
-🔹 **[Project Name](#)** – Game-changing software solution.  
-🔹 **[Project Name](#)** – Immersive gaming experience.  
-
 *More exciting projects coming soon!* 🎉  
 
 ---
@@ -37,11 +34,10 @@ We combine technology and art to create immersive **digital experiences**.
 ## 🌍 Connect With Us
 
 📌 [Website](https://www.verschein.com/)  
-📌 [Twitter](https://twitter.com/VerscheinStudios)  
-📌 [LinkedIn](https://linkedin.com/company/verschein-studios)  
-📌 [GitHub](https://github.com/VerscheinStudios)  
+📌 [Twitter](https://twitter.com/verschein)  
+📌 [GitHub](https://github.com/verschein)  
 
-✉️ **Contact Us:** [hello@verschein.com](mailto:hello@verschein.com)  
+✉️ **Contact Us:** [info@verschein.com.tr](mailto:verschein@gmail.com)  
 
 ---
 
