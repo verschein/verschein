@@ -1,7 +1,5 @@
 <h1 align="center">
   <img src="https://www.verschein.com.tr/verschein1.png" width="200" alt="Verschein Studios Logo">
-  <br>
-  Verschein Studios
 </h1>
 
 <p align="center">
